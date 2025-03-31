@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/google",
+    "url": "https://www.google.com"
+  },
+  {
+    "path": "/github",
+    "url": "https://github.com"
+  },
+  {
+    "path": "/stackoverflow",
+    "url": "https://stackoverflow.com"
+  },
+  {
+    "path": "/golang",
+    "url": "https://golang.org"
+  },
+  {
+    "path": "/blog",
+    "url": "https://blog.example.com/articles"
+  },
+  {
+    "path": "/docs",
+    "url": "https://docs.example.com/api"
+  }
+]
